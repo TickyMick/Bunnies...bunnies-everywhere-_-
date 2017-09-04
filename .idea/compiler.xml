@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Bunnies...bunnies-everywhere-_-" />
         <module name="Bunny" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Bunnies...bunnies-everywhere-_-" target="1.7" />
       <module name="Bunny" target="1.5" />
     </bytecodeTargetLevel>
   </component>
